@@ -1,1 +1,4 @@
 /**/*.exe
+/GPATH
+/GRTAGS
+/GTAGS

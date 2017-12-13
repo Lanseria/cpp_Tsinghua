@@ -38,5 +38,11 @@
     "xmemory0": "cpp",
     "xstddef": "cpp",
     "xtr1common": "cpp"
+  },
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
   }
 }
